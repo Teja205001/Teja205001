@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teja205001&label=Profile%20views&color=0e75b6&style=flat" alt="teja205001" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tejaswini-a600b3265](https://www.linkedin.com/in/tejaswini-a600b3265)
-
+  [![An image of @teja205001's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/teja205001)](https://holopin.io/@teja205001)
 - 📫 How to reach me **tejaswini843126@gmail.com**
 
 - ⚡ Fun fact **a bit funny😅**
